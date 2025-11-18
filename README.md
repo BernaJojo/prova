@@ -1,1 +1,1 @@
-CIAO MONDO = hello world
+CIAO MONDO = hello world = Salut monde
